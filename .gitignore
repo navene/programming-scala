@@ -1,2 +1,11 @@
 *.class
 *.log
+
+target/
+project/
+
+# IntelliJ IDEA files
+.idea
+*.iml
+*.ipr
+*.iws
